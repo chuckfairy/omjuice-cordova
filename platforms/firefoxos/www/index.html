@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>OmniJuice</title>
+
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/theme.css">
+<link rel="stylesheet" href="css/bootstrap-slider.min.css">
+
+</head>
+
+<body>
+
+
+    <!--HEADER-->
+
+    <div id="header" class="container-fluid">
+
+        <div id="backimage"></div>
+
+        <div class="pull-right">
+            <img id="logoImage" src="assets/logo/OmJuice.md.png">
+        </div>
+
+        <h1 class="text-left">OmJuice</h1>
+        <div><small>electronic cigerette juice calculator</small></div>
+        <div><small>Version 1.0.0</small></div>
+
+
+        <div class="container">
+
+            <div id="headerLinks" class="container-fluid">
+
+                <a href="#creator" class="col-xs-4 btn active" data-toggle="tab">Creator</a>
+                <a href="#savedJuices" class="col-xs-4 btn" data-toggle="tab">Saved Juices</a>
+                <a href="#about" class="col-xs-4 btn" data-toggle="tab">About</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!--CONTENT-->
+
+    <div>
+
+        <div class="tab-content" id="flavorContent">
+
+
+            <!--CREATOR-->
+
+            <div class="tab-pane active" id="creator">
+
+                <div id="creatorApp">
+
+                    <div id="creatorAppForm" class="container-fluid form-inline">
+
+
+                        <!--NAME-->
+
+                        <div class="row">
+
+                            <p class="col-xs-3">Name</p>
+
+                            <div class="col-xs-8 input-group">
+                                <input type="text" class="form-control" id="creationNameInput">
+                            </div>
+
+                        </div>
+
+
+                        <!--LIQUIDS-->
+
+                        <div class="row">
+
+                            <p class="col-xs-3">Base Nicotine</p>
+
+                            <div class="col-xs-8 input-group">
+                                <input type="number" class="form-control" data="base nicotine" value="6">
+                                <div class="input-group-addon">MG</div>
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+
+                            <p class="col-xs-3">Target Nicotine</p>
+
+                            <div class="col-xs-8 input-group">
+                                <input type="number" class="form-control" data="target nicotine" value="6">
+                                <div class="input-group-addon">MG</div>
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+
+                            <p class="col-xs-3">Water %</p>
+
+                            <div class="col-xs-8 input-group">
+                                <input type="number" class="form-control" data="Water" value="15">
+                                <div class="input-group-addon">%</div>
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+
+                            <p class="col-xs-3">VG/PG</p>
+
+                            <div class="col-xs-8 input-group">
+                                <div class="slider" value="23"></div>
+                            </div>
+
+                        </div>
+
+
+                        <!--FLAVORS-->
+
+                        <h2>Flavors</h2>
+
+                        <span id="creatorFlavors"></span>
+
+                        <div class="row">
+
+                            <div class="col-xs-1"></div>
+
+                            <p class="col-xs-2">Add flavor</p>
+
+                            <div class="col-xs-7">
+                                <a id="creatorAddFlavor" class="btn btn-primary">+</a>
+                            </div>
+
+                        </div>
+
+
+                        <!--TARGET AMOUNT-->
+
+                        <div class="row">
+
+                            <p class="col-xs-3">
+                                Target Amount
+                            </p>
+
+                            <div class="col-xs-8 input-group">
+                                <input type="number" class="form-control" data="target amount" value="15">
+                                <div class="input-group-addon">ML</div>
+                            </div>
+
+                        </div>
+
+                        <a class="btn btn-primary center-block" id="creationCalculateBtn">Calculate</a>
+
+
+                        <!--CALCULATION DISPLAY-->
+
+                        <div id="createdFlavorCalculation" class="container-fluid flavorInfoDiv">
+
+                            <h2><b id="creationCalcFlavorName">Unicorn Juice</b></h2>
+
+                            <table class="table" id="creationDataTable"></table>
+
+                            <a id="creationSaveButton" class="btn save pull-right">Save Juice</a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!--YOUR JUICES-->
+
+            <div class="tab-pane container-fluid" id="savedJuices">
+
+                <!-- <div class="container-fluid flavorInfoDiv"> -->
+
+                    <h2>Your Flavors</h2>
+
+                    <table class="table" id="savedJuicesTable">
+
+                        <tr>
+                            <th>Name</th>
+                            <th>Flavors</th>
+                            <th>Remove</th>
+                        </th>
+
+                    </table>
+
+                <!-- </div> -->
+
+            </div>
+
+
+            <!--ABOUT-->
+
+            <div class="tab-pane" id="about">
+
+                <div class="container-fluid">
+
+                    <div class="col-md-4">
+
+                    </div>
+
+                    <div class="col-lg-12 flavorInfoDiv">
+
+                        <h3>Created by <a href="http://chuckfairy.com/">Chuckfairy</a></h3>
+
+                        <div class="row">
+
+                            <div class="col-sm-4">
+                                <img src="https://avatars2.githubusercontent.com/u/7469548?v=3&s=460" class="flavor-image">
+                            </div>
+
+                            <div class="col-sm-7 flavorText">Flavor creator is an opensource GNU licensed javascript application. Download for your OS or go online at <a href="http://chuckfairy.com/flavorcreator">Chuckfairy.com</a></div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="text-center" id="flavorAboutLinks">
+
+                        <a href="https://github.com/chuckfairy/OmniJuice">
+                            <img src="assets/icons/github.png">
+                        </a>
+
+                        <a href="#">
+                            <img src="assets/icons/info.png">
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <hr>
+
+                <div class="container-fluid">
+                    <span id="cryptallicaDonator"></span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!--SCRIPTS-->
+
+    <script src="js/lib/jquery.min.js"></script>
+    <script src="js/lib/bootstrap.min.js"></script>
+    <script src="js/lib/bootstrap-slider.min.js"></script>
+
+    <script src="js/cryptallica-donator/donator.js"></script>
+    <script src="js/creator.js"></script>
+
+</body>
+
+</html>

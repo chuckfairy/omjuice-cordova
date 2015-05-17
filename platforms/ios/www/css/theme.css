@@ -1,0 +1,179 @@
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+input {
+
+    padding: 5px;
+    border-radius: 0 !important;
+    border: 1px solid rgb(200,200,200);
+
+    -webkit-transition: all .5s ease-out !important;
+    -moz-transition: all .5s ease-out;
+    -ms-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+
+}
+
+
+input:focus {
+    outline: none;
+    border-left: 4px solid rgb(51, 122, 183);
+}
+
+table {
+    background: rgb(255,255,255);
+    box-shadow: 4px 4px 0 0 rgb(0,0,0);
+    border-collapse: collapse;
+}
+
+table th {
+    background: rgb(180,180,180);
+    border-bottom: 1px solid rgb(0,0,0);
+}
+
+.delete {
+    background: rgb(255,90,90);
+    color: rgb(255,255,255);
+}
+
+.save {
+    background: rgb(255, 203, 0);
+    color: rgb(90,90,90);
+}
+
+.flavorInfoDiv {
+    padding: 10px;
+    margin: 2em 0;
+    background: rgb(60,60,60);
+    border-left: 4px solid rgb(0,0,0);
+}
+
+.flavorInfoDiv > h2, .flavorInfoDiv > h3 {
+    margin: 0 0 1em 0;
+    color: rgb(220,220,220);
+}
+
+.flavorInfoDiv > h2 > b {
+    color: rgb(255,255,255);
+}
+
+.flavorInfoDiv p {
+    margin: 0 auto 2em auto;
+    border-left: 4px solid rgb(51, 122, 183);
+    padding: 5px;
+    width: 80%;
+    background: rgb(255,255,255);
+}
+
+.flavor-image {
+    border-radius: 50%;
+    width: 80%;
+    display: block;
+    margin: 0 auto 1em auto;
+}
+
+.flavorText {
+    border-left: 4px solid rgb(51, 122, 183);
+    padding: 5px;
+    background: rgb(255,255,255);
+    font-size: 1.2em;
+}
+
+
+/*HEADER*/
+#logoImage {
+    width: 5em;
+    padding: 10px;
+}
+
+#headerLinks {
+    padding: 1em 0 2em 0;
+}
+
+#headerLinks > a {
+    border: solid 1px rgb(200,200,200);
+    border-radius: 0;
+
+    -webkit-transition: all .5s ease-out !important;
+    -moz-transition: all .5s ease-out;
+    -ms-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+}
+
+#headerLinks > a:nth-of-type(2) {
+    border-left: none;
+    border-right: none;
+}
+
+#headerLinks > a.active {
+    background: rgb(51, 122, 183);
+    color: rgb(255,255,255);
+}
+
+#flavorContent {
+    background: rgb(220,220,220);
+    min-height: 30em;
+    border-top: 2px solid rgb(51, 122, 183);
+    border-bottom: 2px solid rgb(51, 122, 183);
+}
+
+#creator > h2 {
+    padding: 5px;
+    margin: 0 0 10px 0;
+    border-bottom: 1px solid rgb(51, 122, 183);
+    text-align: center;
+    background: rgb(255,255,255);
+    border-radius: 10px 10px 0 0;
+}
+
+#creatorAppForm {
+    width: 95%;
+    padding-bottom: 1em;
+}
+
+#creatorAppForm > .row {
+    border-bottom: 1px solid rgb(200,200,200);
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+#creatorAppForm > .row > p {
+    padding: 5px;
+
+}
+
+#about {
+    padding: 10px 0 2em 0;
+}
+
+#flavorAboutLinks {
+    text-align: center;
+}
+
+#flavorAboutLinks > a > img {
+
+    display: inline-block;
+    width: 7em;
+}
+
+#cryptallicaDonator {
+    display: block;
+    font-size: 12px;
+    box-sizing: inherit;
+    line-height: inherit;
+    font-family: inherit;
+}
+
+.cryptdonate-iconswrap-default {
+    height: 18em !important;
+}
+
+.cryptdonate-qrArea-default {
+    height: 100% !important;
+}
+
+#cryptallicaDonator *, #cryptallicaDonator *:before, #cryptallicaDonator *:after {
+    box-sizing: inherit;
+}

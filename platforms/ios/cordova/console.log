@@ -1,0 +1,148 @@
+2015-05-14 22:11:01.974 OmJuice[2343:89258] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/DDF54273-0D38-437C-AABC-6E018D7B123A/Library/Cookies/Cookies.binarycookies
+2015-05-14 22:11:04.388 OmJuice[2343:89258] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-14 22:11:04.389 OmJuice[2343:89258] Multi-tasking -> Device: YES, App: YES
+2015-05-14 22:11:04.428 OmJuice[2343:89258] Unlimited access to network resources
+2015-05-14 22:11:04.541 OmJuice[2343:89258] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-14 22:11:09.699 OmJuice[2343:89258] Resetting plugins due to page load.
+2015-05-14 22:11:15.340 OmJuice[2343:89258] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/23542BCF-3799-4B7E-9690-096840FDFB9E/OmJuice.app/www/index.html
+2015-05-14 22:16:50.324 OmJuice[2572:93909] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/E28DB36E-1530-4D9C-A101-A437CE560636/Library/Cookies/Cookies.binarycookies
+2015-05-14 22:16:51.720 OmJuice[2572:93909] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-14 22:16:51.720 OmJuice[2572:93909] Multi-tasking -> Device: YES, App: YES
+2015-05-14 22:16:51.762 OmJuice[2572:93909] Unlimited access to network resources
+2015-05-14 22:16:51.772 OmJuice[2572:93909] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-14 22:16:52.772 OmJuice[2572:93909] Resetting plugins due to page load.
+2015-05-14 22:16:54.016 OmJuice[2572:93909] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/101C7102-6580-4FAA-8D8F-6710B2F88FB9/OmJuice.app/www/index.html
+2015-05-14 22:17:42.013 OmJuice[2572:93909] Simulator slow-motion animations are now on
+2015-05-15 18:32:06.244 OmJuice[951:14758] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/8B41A19A-5819-4E7A-A768-DE68AB0CB297/Library/Cookies/Cookies.binarycookies
+2015-05-15 18:32:07.472 OmJuice[951:14758] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-15 18:32:07.472 OmJuice[951:14758] Multi-tasking -> Device: YES, App: YES
+2015-05-15 18:32:07.510 OmJuice[951:14758] Unlimited access to network resources
+2015-05-15 18:32:07.518 OmJuice[951:14758] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-15 18:32:10.657 OmJuice[951:14758] Resetting plugins due to page load.
+2015-05-15 18:32:12.241 OmJuice[951:14758] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/C5FA78AF-9946-4420-A63E-0EA3CA4A161C/OmJuice.app/www/index.html
+2015-05-15 18:33:44.103 OmJuice[951:14758] Resetting plugins due to page load.
+2015-05-15 18:33:44.928 OmJuice[951:14758] Finished load of: http://chuckfairy.com/
+2015-05-15 18:33:58.236 OmJuice[951:14758] Resetting plugins due to page load.
+2015-05-15 18:33:59.433 OmJuice[951:14758] Finished load of: http://chuckfairy.com/portfolio/
+2015-05-15 18:35:53.332 OmJuice[951:14758] Snapshotting a view that has not been rendered results in an empty snapshot. Ensure your view has been rendered at least once before snapshotting or snapshot after screen updates.
+2015-05-15 18:44:37.871 OmJuice[1268:21072] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/01A75109-29DD-4758-A975-1E1331F45520/Library/Cookies/Cookies.binarycookies
+2015-05-15 18:44:40.405 OmJuice[1268:21072] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-15 18:44:40.405 OmJuice[1268:21072] Multi-tasking -> Device: YES, App: YES
+2015-05-15 18:44:40.446 OmJuice[1268:21072] Unlimited access to network resources
+2015-05-15 18:44:40.463 OmJuice[1268:21072] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-15 18:44:42.948 OmJuice[1268:21072] Resetting plugins due to page load.
+2015-05-15 18:44:45.003 OmJuice[1268:21072] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/28550225-205A-4AFC-9E1E-474A0642999B/OmJuice.app/www/index.html
+2015-05-15 18:49:16.781 OmJuice[1268:21072] Simulator slow-motion animations are now off
+2015-05-15 19:12:23.064 OmJuice[1458:32031] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/1149AD9B-A2AC-4D04-8D45-7672E9676291/Library/Cookies/Cookies.binarycookies
+2015-05-15 19:12:23.462 OmJuice[1458:32031] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-15 19:12:23.463 OmJuice[1458:32031] Multi-tasking -> Device: YES, App: YES
+2015-05-15 19:12:23.479 OmJuice[1458:32031] Unlimited access to network resources
+2015-05-15 19:12:23.486 OmJuice[1458:32031] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-15 19:12:26.200 OmJuice[1458:32031] Resetting plugins due to page load.
+2015-05-15 19:12:26.804 OmJuice[1458:32031] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/C95397E2-3B2B-4476-8530-26B0ED02091C/OmJuice.app/www/index.html
+2015-05-16 13:37:55.497 OmJuice[1164:28648] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/37336163-55FB-4A03-8CB4-0E39976FA959/Library/Cookies/Cookies.binarycookies
+2015-05-16 13:37:56.615 OmJuice[1164:28648] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 13:37:56.615 OmJuice[1164:28648] Multi-tasking -> Device: YES, App: YES
+2015-05-16 13:37:56.684 OmJuice[1164:28648] Unlimited access to network resources
+2015-05-16 13:37:56.725 OmJuice[1164:28648] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-16 13:37:59.456 OmJuice[1164:28648] Resetting plugins due to page load.
+2015-05-16 13:38:00.426 OmJuice[1164:28648] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/8DC78A85-B17E-4151-A7F8-876143B99468/OmJuice.app/www/index.html
+2015-05-16 13:44:06.203 OmJuice[1320:31830] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/98127D5B-49A4-4CD4-912C-20FE887DBE80/Library/Cookies/Cookies.binarycookies
+2015-05-16 13:44:07.434 OmJuice[1320:31830] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 13:44:07.434 OmJuice[1320:31830] Multi-tasking -> Device: YES, App: YES
+2015-05-16 13:44:07.520 OmJuice[1320:31830] Unlimited access to network resources
+2015-05-16 13:44:07.539 OmJuice[1320:31830] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-16 13:44:09.528 OmJuice[1320:31830] Resetting plugins due to page load.
+2015-05-16 13:44:10.507 OmJuice[1320:31830] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/4935DCAB-CC61-4864-92EB-998730A5F623/OmJuice.app/www/index.html
+2015-05-16 17:27:27.339 OmJuice[1837:72966] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/A45BF06A-7905-413C-B203-97B0E98DF317/Library/Cookies/Cookies.binarycookies
+2015-05-16 17:27:27.849 OmJuice[1837:72966] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 17:27:27.850 OmJuice[1837:72966] Multi-tasking -> Device: YES, App: YES
+2015-05-16 17:27:27.882 OmJuice[1837:72966] Unlimited access to network resources
+2015-05-16 17:27:27.892 OmJuice[1837:72966] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-16 17:27:29.296 OmJuice[1837:72966] Resetting plugins due to page load.
+2015-05-16 17:27:29.907 OmJuice[1837:72966] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/A5E8AFE0-A90C-400C-80B2-15BB5997CD26/OmJuice.app/www/index.html
+2015-05-16 18:00:54.452 OmJuice[1837:72966] Snapshotting a view that has not been rendered results in an empty snapshot. Ensure your view has been rendered at least once before snapshotting or snapshot after screen updates.
+2015-05-16 18:02:14.403 OmJuice[1914:77802] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/BC1E04A2-C4C5-4742-9489-821F3F42C106/Library/Cookies/Cookies.binarycookies
+2015-05-16 18:02:14.497 OmJuice[1914:77802] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 18:02:14.498 OmJuice[1914:77802] Multi-tasking -> Device: YES, App: YES
+2015-05-16 18:02:14.506 OmJuice[1914:77802] Unlimited access to network resources
+2015-05-16 18:02:14.510 OmJuice[1914:77802] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-16 18:02:14.720 OmJuice[1914:77802] Resetting plugins due to page load.
+2015-05-16 18:02:14.867 OmJuice[1914:77802] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/A5785267-1D03-44E0-B21E-5E2CB7EB0D91/OmJuice.app/www/index.html
+2015-05-16 18:02:34.871 OmJuice[1921:78282] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/BC1E04A2-C4C5-4742-9489-821F3F42C106/Library/Cookies/Cookies.binarycookies
+2015-05-16 18:02:34.966 OmJuice[1921:78282] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 18:02:34.966 OmJuice[1921:78282] Multi-tasking -> Device: YES, App: YES
+2015-05-16 18:02:34.968 OmJuice[1921:78282] Unlimited access to network resources
+2015-05-16 18:02:34.971 OmJuice[1921:78282] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-16 18:02:35.289 OmJuice[1921:78282] Resetting plugins due to page load.
+2015-05-16 18:02:36.008 OmJuice[1921:78282] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/A5785267-1D03-44E0-B21E-5E2CB7EB0D91/OmJuice.app/www/index.html
