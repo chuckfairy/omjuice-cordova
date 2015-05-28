@@ -146,3 +146,45 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 
 2015-05-16 18:02:35.289 OmJuice[1921:78282] Resetting plugins due to page load.
 2015-05-16 18:02:36.008 OmJuice[1921:78282] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/A5785267-1D03-44E0-B21E-5E2CB7EB0D91/OmJuice.app/www/index.html
+2015-05-16 21:01:15.964 OmJuice[3109:130802] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/0C4875D5-276D-4FD9-8E28-F584BBD5BE65/Library/Cookies/Cookies.binarycookies
+2015-05-16 21:01:16.827 OmJuice[3109:130802] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 21:01:16.827 OmJuice[3109:130802] Multi-tasking -> Device: YES, App: YES
+2015-05-16 21:01:16.886 OmJuice[3109:130802] Unlimited access to network resources
+2015-05-16 21:01:16.936 OmJuice[3109:130802] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-16 21:01:19.791 OmJuice[3109:130802] Resetting plugins due to page load.
+2015-05-16 21:01:21.359 OmJuice[3109:130802] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/9CF07EF7-0BA6-4291-AAE6-4672BF389B55/OmJuice.app/www/index.html
+2015-05-16 21:23:45.699 OmJuice[3260:137253] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/038B1C9C-BA73-4FFF-8688-3C9535A1D946/Library/Cookies/Cookies.binarycookies
+2015-05-16 21:23:45.992 OmJuice[3260:137253] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-16 21:23:45.993 OmJuice[3260:137253] Multi-tasking -> Device: YES, App: YES
+2015-05-16 21:23:46.011 OmJuice[3260:137253] Unlimited access to network resources
+2015-05-16 21:23:46.015 OmJuice[3260:137253] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-16 21:23:46.538 OmJuice[3260:137253] Resetting plugins due to page load.
+2015-05-16 21:23:47.078 OmJuice[3260:137253] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/B434B770-1A79-4184-BBBC-48FF564E1588/OmJuice.app/www/index.html
+2015-05-17 20:37:03.494 OmJuice[9169:337213] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Data/Application/EB7797BF-2C5D-4CDC-9D67-BBB0078A2359/Library/Cookies/Cookies.binarycookies
+2015-05-17 20:37:06.368 OmJuice[9169:337213] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 20:37:06.369 OmJuice[9169:337213] Multi-tasking -> Device: YES, App: YES
+2015-05-17 20:37:06.408 OmJuice[9169:337213] Unlimited access to network resources
+2015-05-17 20:37:06.439 OmJuice[9169:337213] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-17 20:37:08.820 OmJuice[9169:337213] Resetting plugins due to page load.
+2015-05-17 20:37:10.089 OmJuice[9169:337213] Finished load of: file:///Users/charlesabeling/Library/Developer/CoreSimulator/Devices/955BE22E-F9FA-45DD-AA2B-D3153FFD3D0D/data/Containers/Bundle/Application/47796231-3F9A-4334-9DD8-A725BB7AD098/OmJuice.app/www/index.html

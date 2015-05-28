@@ -10,8 +10,5 @@
         "name": "Apache Cordova Team",
         "url": "http://cordova.io"
     },
-    "icons": {
-        "512": "assets/logo/OmJuice.md.png",
-        "128": "assets/logo/OmJuice.md.png"
-    }
+    "icons": {}
 }

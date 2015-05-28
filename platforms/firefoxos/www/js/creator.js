@@ -1,6 +1,6 @@
 (function(){
 
-var storage = localStorage;
+var storage = window.localStorage;
 var savedJuices;
 
 var targetMeasurement;
@@ -26,9 +26,6 @@ $(document).ready(function() {
         $(this).addClass("active");
         //$(this).tab('show');
     });
-
-
-    var donator = new CryptDonator("cryptallicaDonator", {theme: "default"});
 
     initCreator();
 
