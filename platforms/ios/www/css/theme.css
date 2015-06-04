@@ -70,6 +70,7 @@ table th {
 .flavor-image {
     border-radius: 50%;
     width: 80%;
+    max-width: 20em;
     display: block;
     margin: 0 auto 1em auto;
 }
@@ -86,6 +87,8 @@ table th {
 #logoImage {
     width: 5em;
     padding: 10px;
+    position: relative;
+    top: 1em;
 }
 
 #headerLinks {

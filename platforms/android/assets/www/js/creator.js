@@ -1,4 +1,4 @@
-(function(){
+(function() {
 
 var storage = window.localStorage;
 var savedJuices;
@@ -17,6 +17,8 @@ var pgvgRange;
 var targetAmountInput;
 var currentJuiceHTML;
 var savedJuicesTable;
+var baseNicotineInput;
+var targetNicotineInput;
 
 $(document).ready(function() {
 
@@ -50,6 +52,9 @@ function initCreator() {
     waterInput = $("#creatorAppForm input[data='Water']");
     currentJuiceHTML = $("#creationCalcFlavorName");
     savedJuicesTable = $("#savedJuicesTable");
+
+    baseNicotineInput = $("#creationBaseNicotine");
+    targetNicotineInput = $("#creationTargetNicotine");
 
     //Save juice
     saveButton = $("#creationSaveButton");
@@ -100,13 +105,19 @@ function initCreator() {
 
         }
 
+        //Nicotine
+        var nicotineBaseMl = ( baseNicotineInput.val() - 0.0 ) / 100;
+        var targetNicotineMl = ( targetNicotineInput.val() - 0.0 ) / 100;
+        var nicotineAmount = targetNicotineMl * ( targetAmount / nicotineBaseMl );
+        currentJuice.Nicotine = nicotineAmount;
+
         //Water
         var waterAmount = ( $(waterInput).val() - 0.0 );
         var waterML = calcMeasure( targetAmount, waterAmount );
         currentJuice.Water = waterAmount;
 
         //Calc VG and PG
-        var vgPgAmount = ( targetAmount - ( waterML + flavorsML ) ) / targetAmount;
+        var vgPgAmount = ( targetAmount - ( waterML + flavorsML + nicotineAmount ) ) / targetAmount;
 
         //Vg to PG
         var vgTo = pgvgRange.val()|0;
